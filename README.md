@@ -49,7 +49,9 @@ scan the targets with the command db_nmap as follows.
 msf > db_nmap 192.168.181.0/24
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/2553fe5f-501a-4b7e-8455-f45a5a610794)
 
+![image](https://github.com/user-attachments/assets/e4618b4b-ea0f-4140-8f10-196d32dbacef)
 
 
 ## RESULT:
